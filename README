@@ -95,6 +95,10 @@ Includes
 - source for samba-3.6.9 and winexe-1.00
 
 Just run the installer and you should be good to go! If not email me... jbrav.hax@gmail.com
+Installing:
+1. git clone https://github.com/brav0hax/smbexec.git
+2. cd smbexec
+3. ./install.sh
 
 Credit where credit is due:
 * b00stfr3ak - For multiple pull requests and code contributions
